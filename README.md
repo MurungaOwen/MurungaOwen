@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Owen</h1>
 <h3 align="center">I'm a Full Stack Developer with a passion for developing software solutions to real world problems</h3>
 
-<p align="left"> <a href="https://twitter.com/thagichucodes" target="blank"><img src="https://img.shields.io/twitter/follow/thagichucodes?logo=twitter&style=for-the-badge" alt="thagichucodes" /></a> </p>
+
 
 - 🔭 I’m currently working on **Nyumba App;**
 
