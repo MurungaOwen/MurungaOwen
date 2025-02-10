@@ -33,4 +33,3 @@ Github stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MurungaOwen&show_icons=true&locale=en" alt="MurungaOwen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MurungaOwen&" alt="MurungaOwen" /></p>
