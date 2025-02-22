@@ -51,7 +51,6 @@ Frameworks and Tools
 <img src="https://komarev.com/ghpvc/?username=MurungaOwen&color=blue" alt="Profile Views">
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=MurungaOwen&theme=onedark&no-frame=true&row=2&column=3" alt="Trophy Stats" style="height: 150px; max-width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MurungaOwen&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 150px; max-width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=MurungaOwen&show_icons=true&locale=en" alt="GitHub Stats" style="height: 150px; max-width: 100%;">
 </div>
