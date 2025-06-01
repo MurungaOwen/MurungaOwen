@@ -123,14 +123,16 @@ Frameworks and Tools
         <img src="https://img.icons8.com/color/100/c-programming.png" alt="C" width="45" height="45"><br>
       <p>C</p>
     </td>
-    <td align='center' width="150">
-        <img src="https://img.icons8.com/color/100/c-sharp-logo.png" alt="C#" width="45" height="45"><br>
-      <p>C#</p>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="45" height="45"><br>
+      <p>Kubernetes</p>
     </td>
     <td align='center' width="150">
         <img src="https://img.icons8.com/color/100/java-coffee-cup-logo--v1.png" alt="Java" width="45" height="45"><br>
       <p>Java</p>
     </td>
+    
+
   </tr>
 </table>
 
