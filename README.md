@@ -146,6 +146,15 @@ Frameworks and Tools
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MurungaOwen&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurungaOwen&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Matrix SVG](assets/matrix.svg)](assets/matrix.svg)
+
 
 ## <div align="center"><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Activity Graph </h3></div>
 
