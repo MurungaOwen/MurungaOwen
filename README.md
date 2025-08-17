@@ -136,14 +136,6 @@ Frameworks and Tools
   </tr>
 </table>
 
-### Github Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MurungaOwen&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 150px; max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MurungaOwen&show_icons=true&locale=en" alt="GitHub Stats" style="height: 150px; max-width: 100%;">
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h3 align="center">Statistics</h3>
 <div align="center">
   <a href="https://github.com/rennf93/rennf93">
