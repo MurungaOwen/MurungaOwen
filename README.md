@@ -153,8 +153,9 @@ Frameworks and Tools
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Matrix SVG](assets/matrix.svg)](assets/matrix.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MurungaOwen&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=nord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <div align="center"><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Activity Graph </h3></div>
 
