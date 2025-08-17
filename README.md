@@ -142,6 +142,20 @@ Frameworks and Tools
   <img src="https://github-readme-stats.vercel.app/api?username=MurungaOwen&show_icons=true&locale=en" alt="GitHub Stats" style="height: 150px; max-width: 100%;">
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">Statistics</h3>
+<div align="center">
+  <a href="https://github.com/rennf93/rennf93">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MurungaOwen&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MurungaOwen&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurungaOwen&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MurungaOwen&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurungaOwen&theme=2077" height="180em" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## <div align="center"><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Activity Graph </h3></div>
 
