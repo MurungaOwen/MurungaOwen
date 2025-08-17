@@ -136,7 +136,7 @@ Frameworks and Tools
 
 <h3 align="center">Statistics</h3>
 <div align="center">
-  <a href="https://github.com/rennf93/rennf93">
+  <a href="https://github.com/MurungaOwen/MurungaOwen">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MurungaOwen&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MurungaOwen&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurungaOwen&theme=2077" height="180em" />
