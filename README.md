@@ -2,6 +2,9 @@
 
 ![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)
 <h1 align="center">Hey there 👋, I'm Owen</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+world+of+code+🌍;Open-source+enthusiast+❤️;404%3A+Humour+not+found+😂;Keep+calm+and+git+commit+💾;" alt="Typing SVG" />
+</p>
 
 Want us to  work on something together ?
   - Email: owenhood80@gmail.com
@@ -133,9 +136,12 @@ Frameworks and Tools
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Github Stats
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MurungaOwen&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 150px; max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MurungaOwen&show_icons=true&locale=en" alt="GitHub Stats" style="height: 150px; max-width: 100%;">
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MurungaOwen&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1&theme=nord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## <div align="center"><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Activity Graph </h3></div>
 
