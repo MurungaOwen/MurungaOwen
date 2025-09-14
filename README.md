@@ -2,9 +2,6 @@
 
 ![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)
 <h1 align="center">Hey there 👋, I'm Owen</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+world+of+code+🌍;Open-source+enthusiast+❤️;404%3A+Humour+not+found+😂;Keep+calm+and+git+commit+💾;" alt="Typing SVG" />
-</p>
 
 Want us to  work on something together ?
   - Email: owenhood80@gmail.com
