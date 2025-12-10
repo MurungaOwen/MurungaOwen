@@ -21,6 +21,9 @@ Frameworks and Tools
   - Deployments
     - Vercel
     - Render
+  - Cloud Platform
+    - AWS
+    - GCP
 
 ### Tech Stack
 
