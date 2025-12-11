@@ -137,8 +137,8 @@ Frameworks and Tools
 </table>
 
 ### Github Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MurungaOwen&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 150px; max-width: 100%;">
+<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 10px;">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MurungaOwen&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 150px; max-width: 100%;"> -->
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=MurungaOwen&show_icons=true&theme=light&hide_border=false" alt="GitHub Stats" style="height: 150px; max-width: 100%;">
 </div>
 
