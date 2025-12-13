@@ -137,58 +137,10 @@ Frameworks and Tools
 </table>
 
 ### 📊 GitHub Stats
-
-<div style="
-  display: flex;
-  justify-content: center; /* center all cards */
-  gap: 20px;
-  flex-wrap: nowrap; /* keep all cards in one row on large screens */
-  margin: 25px 0;
-  overflow-x: auto; /* allow horizontal scroll on small screens */
-  padding-bottom: 10px;
-">
-
-  <!-- Main Stats Card -->
-  <div style="
-    flex: 0 0 300px; /* fixed width */
-    max-width: 300px;
-  ">
-    <img 
-      src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=MurungaOwen&show_icons=true&theme=light&hide_border=false&count_private=true"
-      alt="GitHub Stats"
-      style="
-        width: 100%;
-        height: auto;
-        border-radius: 12px;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-        transition: transform 0.2s;
-      "
-      onmouseover="this.style.transform='scale(1.03)';"
-      onmouseout="this.style.transform='scale(1)';"
-    />
-  </div>
-
-  <!-- Languages Card -->
-  <div style="
-    flex: 0 0 300px;
-    max-width: 300px;
-  ">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurungaOwen&layout=compact&theme=default&hide_border=false&langs_count=8&card_width=450&exclude_repo=github-readme-stats"
-      alt="Top Languages"
-      style="
-        width: 100%;
-        height: auto;
-        border-radius: 12px;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-        transition: transform 0.2s;
-      "
-      onmouseover="this.style.transform='scale(1.03)';"
-      onmouseout="this.style.transform='scale(1)';"
-    />
-  </div>
-
-</div>
+<p align="left">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=MurungaOwen&show_icons=true&theme=light&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurungaOwen&layout=compact&theme=default&hide_border=false&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" height="180"/>
+</p>
 
 ## <div align="center"><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Activity Graph </h3></div>
 
