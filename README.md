@@ -10,6 +10,7 @@ Programming Languages
 - Python
 - Javascript
 - Typescript
+- Golang
 - C, C#
 
 Frameworks and Tools
@@ -23,7 +24,7 @@ Frameworks and Tools
     - Render
   - Cloud Platform
     - AWS
-    - GCP
+    - Azure
 
 ### Tech Stack
 
